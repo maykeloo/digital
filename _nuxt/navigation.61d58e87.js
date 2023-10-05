@@ -1,0 +1,1 @@
+import"./MDCSlot.b1e06c55.js";import{r as o}from"./slot.8a2e891a.js";import{k as r,b as t,c as s}from"./entry.40a6ea99.js";const c={},n={class:"bg-red-100"};function a(e,i){return t(),s("div",n,[o(e.$slots,"default")])}const l=r(c,[["render",a]]);export{l as default};
