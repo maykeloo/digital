@@ -3,7 +3,7 @@ title: 'Articles'
 layout: 'page'
 ---
 
-::articles-list
+::articles
 ---
 path: articles
 ---
